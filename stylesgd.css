@@ -1021,7 +1021,7 @@ footer {
 
   .content2 {
     display: flex;
-    height: 700px;
+    height: fit-content;
     position: relative;
 
     flex-direction: column-reverse;
