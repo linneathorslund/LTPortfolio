@@ -754,6 +754,10 @@ footer {
   .text-box {
     top: 140px;
   }
+  
+  .arrow-container {
+    top: 700px;
+    }
 }
 
 @media (max-width: 750px) {
@@ -939,6 +943,10 @@ footer {
   .text-box {
     top: 170px;
   }
+  
+  .arrow-container {
+    top: 650px;
+    }
 }
 
 @media (max-width: 657px) {
@@ -1006,6 +1014,9 @@ footer {
     transform: scaleX(-1);
     align-self: flex-end;
   }
+  .arrow-container {
+    top: 650px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1172,4 +1183,7 @@ footer {
   .text-box {
     top: 170px;
   }
+  .arrow-container {
+    top: 500px;
+    }
 }
